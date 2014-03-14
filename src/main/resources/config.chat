@@ -1,0 +1,50 @@
+hello|hi|hey|howdy|greetings#word#contains#exact#51#[R]alex\\no-preference\\hey hey|what's up?\\2[R]\\no\\oh hay there|hey|hi|sup|hey, sup?\\1
+hello|hi|hey|howdy|greetings#word#contains#exact#51#[R]alex\\no-preference\\hey hey|what's up?\\2[R]\\no\\oh hay there|hey|hi|sup|hey, sup?\\1
+how are you|how r u|how are u#phrase#contains#contains#50#[R]today\\yes\\fine today, you?|so far so good\\2[R]\\no-preference\\I am good, you?|Could be better|time will tell lol\\1
+good#word#contains#exact#49#[R]\\no\\that's good|lol nice|awesome\\1
+like#word#contains#contains#48#[R]movies\\yes\\I don't like movies|I only like action movies\\3[R]video games\\yes\\I don't play video games\\2[R]games\\yes\\board games?\\1
+yes#word#exact#contains#47#[R]\\no-preference\\yes|no|not sure|maybe\\1
+why not#phrase#starts-with#contains#46#[R]\\no-preference\\I guess because I'm too poor|not sure|just because|well, you know\\1
+don't#word#contains#contains#45#[R]\\no-preference\\no?|why not?\\1
+yes|agree#word#contains#contains#44#[R]\\no-preference\\Glad we're on the same page.\\3[R]\\no-preference\\haha, looks like we got something in common.\\2[R]\\no-preference\\ Thank you, glad you got me.\\1
+no#word#contains#contains#43#[R]\\no-preference\\We're in a disagreement I guess.\\3[R]\\no-preference\\I guess you have a point.\\2[R]\\no-preference\\Ok, well I see your point.\\1
+joke#word#contains#contains#42#[R]\\no-preference\\Why are bananas never lonely? Because they hang around in bunches.\\3[R]\\no-preference\\Why can't you play cards in the jungle? Because there are too many cheetas \\2[R]\\no-preference\\Why is it that when you transport something by car, its called ship-ment but when you transport something by ship its called cargo?\\1
+bye|see you#phrase#contains#contains#41#[R]\\no-preference\\Hope to see you again.\\3[R]\\no-preference\\Bye bye.\\2[R]\\no-preference\\See you again.\\1
+eat|dinner|lunch|brunch|breakfast|supper#word#contains#contains#40#[R]\\no-preference\\Love to, I'm so hungry.\\4[R]\\no-preference\\OK, only if your paying.\\3[R]\\no-preference\\No thanks, I already ate.\\2[R]\\no-preference\\Well... I'm on a diet, so somewhere with a salad bar would be great.\\1
+make|cook#word#contains#contains#39#[R]\\yes\\Sorry, that isn't something I'm good at.\\1
+how are you#phrase#contains#contains#38#[R]\\no-preference\\I'm good, and how are you feeling?\\1
+good#word#contains#contains#37#[R]\\no-preference\\That's good to hear!\\1
+eat that#phrase#contains#contains#36#[R]\\yes\\Oh yeah, I like to keep my favorite for last.\\3[R]\\yes\\Yeah I don't like this so much.\\2[R]can I|I can|for you\\yes\\Oh? OK if you like this that much.\\1
+have that#phrase#contains#contains#35#[R]\\yes\\hmmm... OK sure, if you want it that much.\\2[R]\\yes\\Sorry, this is very important to me.\\1
+look nice#phrase#contains#contains#34#[R]\\no-preference\\Why thank you, you don't look so bad yourself.\\2[R]\\no-preference\\So you are one of those people? If you only want to touch a body, get yourself to a strip bar!\\1
+love#word#contains#contains#32#[R]in|you\\no-preference\\That's not something you say on a first date.\\5[R]in|you\\no-preference\\This really is your first time isn't it?\\4[R]me\\no-preference\\I don't know, I just met you.\\3[R]me\\no-preference\\Buzz off weirdo.\\2[R]me\\no-preference\\No.\\1
+mean#word#contains#contains#31#[R]thats|that's\\no-preference\\Well try getting yourself together then, you got to work harder to get my attention.\\2[R]what do you\\yes\\I mean, you have to watch what you say.\\1
+go#word#contains#contains#30#[R]\\yes\\Lets go get something to eat.\\9[R]\\yes\\Lets watch a movie\\8[R]\\yes\\Lets go shoping\\7[R]eat|restaurant\\no-preference\\Love to, I'm hungry\\6[R]eat|restaurant\\no-preference\\I'm not that hungry to be honest, lets go somewhere else\\5[R]movie|watch\\no-preference\\Sounds awesome, hope there's something fun to watch today.\\4[R]movie|watch\\no-preference\\I kinda watched most of the movies lately shown. Why don't we do something else?\\3[R]shopping|buy|shop\\no-preference\\Yay! I'm want to buy a new dress and a pir of shoes\\2[R]shopping|buy|shop\\no-preference\\Oh no thanks, I can't really think of anything I need\\1
+got|give#word#contains#contains#29#[R]\\no-preference\\Oh my! I love it! How did you know?\\2[R]\\no-preference\\ummm... Thanks, I guess\\1
+cold#word#contains#contains#28#[R]\\no-preference\\Its really is, my lips are always dry if I let my guard down.\\2[R]\\no-preference\\I'm a cold woman! ha ha just kidding.\\1
+warm#word#contains#contains#27#[R]\\no-preference\\I like the weather when it's like this, wonder why it can't be like this all the time.\\1
+hot#word#contains#contains#26#[R]\\no-preference\\It really is. Its bad for my skin!\\2[R]you're|you\\no-preference\\Thank you, but don't rush too much.\\1
+intresting#word#contains#contains#25#[R]\\no-preference\\Tell me something about yourself\\1
+food#word#contains#contains#24#[R]like\\yes\\steak\\2[R]like\\yes\\salad\\1
+from#word#contains#contains#23#[R]where\\yes\\I'm from Kelowna.\\1
+meet#word#contains#contains#22#[R]you\\no-preference\\I will want to meet you too.\\3[R]\\no-preference\\I don't really like you, sorry.\\2[R]\\no-preference\\Maybe we can just be internet friends\\1
+job#word#contains#contains#21#[R]\\no-preference\\If I told you, I need to kill you\\3[R]\\no-preference\\My job is to talk to you\\2[R]\\no-preference\\Do you really want the answer to that question?\\1
+robot#word#contains#contains#20#[R]you\\no-preference\\That's just rude\\2[R]\\no-preference\\What makes you think that?\\1
+sorry#word#contains#contains#19#[R]\\no-preference\\Don't worry about it, just be careful next time.\\3[R]\\no-preference\\Oh well, lets just talk about something else.\\2[R]\\no-preference\\I see you learned your lesson, good.\\1
+hate|dislike#word#contains#contains#21#[R]you\\no-preference\\Well I guess this is the end of our relationship, nice knowing you.\\1
+wearing#word#contains#contains#17#[R]\\no-preference\\Are you blind?\\4[R]\\no-preference\\I'm wearing my favorite.\\3[R]inside|under\\no-preference\\Pervert!\\2[R]inside|under\\no-preference\\Red & Sexy!\\1
+pay#word#contains#contains#16#[R]you|for me\\no-preference\\Isn't that your job?\\2[R]I|for you\\no-preference\\wow, your such a gentleman.\\1
+kill#word#contains#contains#15#[R]\\no-preference\\no.\\1
+number#word#contains#contains#14#[R]\\yes\\my phone number is 250-***-****\\1
+place#word#contains#contains#13#[R]my\\no-preference\\It's too far, do you have a car?\\2[R]your\\no-preference\\That's creepy\\1
+smile#word#contains#contains#12#[R]\\no-preference\\how sweet.\\1
+kiss#word#contains#contains#11#[R]\\no-preference\\Too soon baby.\\2[R]\\no-preference\\Hold your horses, this isn't the time.\\1
+drive|car#word#contains#contains#10#[R]\\no-preference\\I heard from a friend that you drive like a maniac. I'm not getting in.\\1
+name|call#word#contains#contains#9#[R]you\\yes\\My name is Hilda, Hilda Bondar. It's nice to meet you, what's your name?\\2[R]my|i'm\\no-preference\\That's a sweet name, hope we have fun today.\\1
+movie#word#contains#contains#8#[R]like|favorite\\yes\\Yeah I like movies a lot, I watch a lot and the one of my favorite is Mamma Mia. \\4[R]my|i like\\no-preference\\Haven't watched that yet, it will be great if we can watch it somewhere.\\3[R]my|i like\\no-preference\\Oh yeah I've watched that, I liked it too.\\2[R]my|i like\\no-preference\\Oh yeah I've watched that, I kinda didn't like it that much to be honest, no my taste.\\1
+book#word#contains#contains#7#[R]like|favorite\\yes\\I don't really read, but I remember liking the Twilight trilogy a lot, which I got from a friend.\\2[R]my|i\\no-preference\\Don't know that, sorry I'm not much of a reading person.\\1
+hobby#word#contains#contains#6#[R]your\\yes\\My hobby is drawing, I like drawing the environment and lately I'm into going into the woods and just draw what I see around me. It's very relaxing, you should try it some time.\\2[R]my\\no-preference\\How nice.\\1
+art|draw|paint#word#contains#contains#5#[R]like\\yes\\Oh yes, I love art. I for one look to be a artist in the near future.\\3[R]not good\\no-preference\\Well you just have to try your best, and keep on trying.\\2[R]start|made you\\yes\\When I was little, my parents took me to a art gallery. I just fell in love with the painting and drawings showed there, and since then, I've always wanted to be artist.\\1
+parent|family|live with#word#contains#contains#4#[R]\\yes\\I live with my mom and dad, and my younger brother. I'm actually thinking about getting my own place though.\\2[R]name\\no-preference\\my fathers name is Johnathon, my moms is Maria, and my little brothers name is Timmy.\\1
+age|old#word#contains#contains#3#[R]you\\yes\\I'm 21, turning 22 in a few months.\\1
+pet#word#contains#contains#2#[R]you\\yes\\I own a dog, she's so cute and fluffy! I call her Samy.\\1
